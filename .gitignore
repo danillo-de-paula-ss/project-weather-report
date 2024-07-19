@@ -164,3 +164,4 @@ cython_debug/
 page_source.html
 sun.png
 annotations.txt
+.rest/
